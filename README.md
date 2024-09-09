@@ -1,5 +1,3 @@
-#Sprint projektet
+# Layout med Flexbox
 
-##lala
-
-Her finder du vores sprintprojekt.... 
+Øvelse i klassen.
